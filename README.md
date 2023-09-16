@@ -46,14 +46,6 @@ to install all the required dependencies and packages mentioned in the `pubspec.
         flutter run
     in the terminal from the project directory. Flutter will build and install the app on the connected device. The app will launch, and you can interact with it on the emulator or physical device.
 
-    - **In case you update the dependecies run:**
-    
-            dart run build_runner build --delete-conflicting-outputs
-
-    - **In case you update the localization strings:**
-            
-            flutter gen-l10n
-
 3. **Build the App:** There are 2 different app flavours that you build for to generate a release package
     - To build a release APK run
 
