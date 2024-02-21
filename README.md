@@ -1,4 +1,4 @@
-# Welcome to My PDF Example App
+# Welcome to My PDF Example App: Part 2
 
 ## What does the app do?
 
@@ -8,7 +8,7 @@ This app I wrote it and made it public as a support codebase for my article on H
 <table>
     <tr>
         <td><img src="screenshots/image1.png" width="300px" /></td>
-        <td><img src="screenshots/image2.png" width="300px" /></td>
+        <td><img src="screenshots/image2.jpg" width="300px" /></td>
     </tr>
     <tr>
         <td><b>Image 1: Main Screen for PDF Generation</b></td>
