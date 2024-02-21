@@ -116,8 +116,7 @@ class PdfUtils {
     var textStyle2 = pw.TextStyle(
         fontSize: 12, color: PdfColors.blue900, fontWeight: pw.FontWeight.bold);
 
-
-    var tableIntros = pw.Table(
+    var introductionTexts = pw.Table(
       children: [
         pw.TableRow(
           children: [
@@ -202,7 +201,7 @@ class PdfUtils {
               crossAxisAlignment: pw.CrossAxisAlignment.start,
               children: [
                 pw.SizedBox(height: 120),
-                tableIntros,
+                introductionTexts,
                 pw.SizedBox(height: 10),
                 tableWidget,
               ],
